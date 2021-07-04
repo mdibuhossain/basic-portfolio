@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.orange-color{
+    color: orange;
+}
+h1{
+    font-size: 60px;
+    font-weight: 900;
+}
+.top-section{
+    display: flex;
+    width: 100%;
+    padding-top: 2%;
+    background-image: url(../images/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 10%;
+}
+
+.flex-section{
+    display: flex;
+    width: 94%;
+    background-repeat: no-repeat;
+    padding-left: 6%;
+}
+
+.half-width{
+    width: 40%;
+    /* margin: auto; */
+    /* border: 1px solid red; */
+    padding-left: 5%;
+}
+.portfolio-img{
+    width: 100%
+}
+.hyper-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(120deg, lightsalmon,tomato) ;
+    border-radius: 6px;
+    padding: 10px 25px;
+    font-weight: 700;
+}
+.para{
+    color: dimgray;
+    text-align: justify;
+}
+.dream-big{
+    background-image: url(../images/dream-bg.png);
+    background-position: right;
+    margin-bottom: 10%;
+}
+.dream-big-text{
+}
